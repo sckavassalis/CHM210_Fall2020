@@ -1,1 +1,1 @@
-# CHM210_Fall2020
+# Miscellaneous files for students
